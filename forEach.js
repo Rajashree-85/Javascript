@@ -8,3 +8,4 @@ for(let i=0;i<arr.length;i++){
 
 //Does not return array
 console.log(answer);
+
